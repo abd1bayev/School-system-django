@@ -1,9 +1,11 @@
 asgiref==3.5.2
 chardet==5.1.0
 Django==4.1.4
+django-cors-headers==3.13.0
 django-jazzmin==2.6.0
 djangorestframework==3.14.0
 idna==3.4
 Pillow==9.3.0
 pytz==2022.6
 sqlparse==0.4.3
+tzdata==2022.7
